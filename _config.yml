@@ -1,4 +1,4 @@
 #sets the theme, title, and description of the website
-remote_theme: jekyll-serif-theme
+remote_theme:  zerostaticthemes/jekyll-serif-theme 
 title: Welcome to Jimmybob3D's homepage!
 description: yoooooo! it's a website!!!
